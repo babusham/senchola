@@ -1,0 +1,233 @@
+.Home_top button {
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    width: 150px;
+  }
+  
+  .Home_top div p {
+    font-size: 18px;
+  }
+  
+  .right_img img {
+    margin-left: 200px;
+  }
+  
+  .explore_icons {
+    width: 50px;
+    height: 50px;
+    border: 1px solid green;
+    border-radius: 50%;
+    font-size: 25px;
+  }
+  
+  .third_page {
+    width: 100%;
+    height: 500px;
+    background-color: rgb(255, 231, 209);
+  }
+  
+  .Home_third_btn {
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    width: 150px;
+  }
+  
+  .small_box {
+    width: 250px;
+    height: 285px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgb(0 0 0 / 0.1);
+  }
+  
+  .fifth_boxes {
+    width: 400px;
+    height: 300px;
+    border: none;
+    background-color: white;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  }
+  .fifth_boxes span {
+    color: black;
+  }
+  .fifth_boxes .box_para {
+    font-size: 15px;
+  }
+  
+  .Home_top {
+    position: relative;
+  }
+  
+  .round_orenge {
+    position: absolute;
+    background-color: #ffc691;
+    width: 80px;
+    height: 80px;
+    z-index: -1;
+    border-radius: 50%;
+    margin-left: -2rem;
+    margin-top: -3rem;
+  }
+  .round_pink {
+    position: absolute;
+    background-color: #ff989b;
+    width: 150px;
+    height: 150px;
+    z-index: -1;
+    border-radius: 50%;
+    margin-left: -22rem;
+    margin-top: 5rem;
+  }
+  .round_green1 {
+    position: absolute;
+    left: 45rem;
+    top: 6rem;
+    height: 70px;
+    background-color: rgb(188, 245, 91);
+    border-radius: 50%;
+    z-index: -1;
+  }
+  .round_lightOrange {
+    position: absolute;
+    left: 59rem;
+    top: -12rem;
+    height: 655px;
+    background-color: rgb(255, 226, 148);
+    border-radius: 50%;
+    z-index: -1;
+  }
+  .light_orange2 {
+    position: absolute;
+    left: 12rem;
+    top: 75.5rem;
+    height: 80px;
+    background-color: rgb(245, 222, 91);
+    border-radius: 50%;
+    z-index: -1;
+  }
+  .light_blue2 {
+    position: absolute;
+    left: 84rem;
+    top: 112rem;
+    height: 170px;
+    background-color: #add9ff;
+    border-radius: 50%;
+    z-index: -1;
+    width: 187px;
+  }
+  .light_orange3 {
+    position: absolute;
+    left: 12rem;
+    top: 145.5rem;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(245, 222, 91);
+    border-radius: 50%;
+    z-index: -1;
+  }
+  .light_green1 {
+    position: absolute;
+    left: -2rem;
+    top: 162.5rem;
+    width: 90px;
+    height: 90px;
+    background-color: #c4fee6;
+    border-radius: 50%;
+    z-index: -1;
+  }
+  .light_orange4 {
+    position: absolute;
+    left: 5rem;
+    top: 201rem;
+    width: 90px;
+    height: 90px;
+    background-color: #fee6c4;
+    border-radius: 50%;
+    z-index: -1;
+  }
+  
+  .light_voilet {
+    position: absolute;
+    left: 85rem;
+    top: 221rem;
+    width: 90px;
+    height: 90px;
+    background-color: #c9c1fc;
+    border-radius: 50%;
+    z-index: -1;
+  }
+  
+  .b1 {
+    position: absolute;
+    font-size: 40px;
+    transform: rotate(1.1turn);
+    left: 29rem;
+  }
+  .b2 {
+    position: absolute;
+    font-size: 40px;
+    transform: rotate(-0.1turn);
+    left: 19rem;
+    top: 27rem;
+  }
+  
+  .b3 {
+    position: absolute;
+    font-size: 40px;
+    transform: rotate(-0.1turn);
+    left: 55rem;
+    top: 24rem;
+  }
+  
+  .b4 {
+    position: absolute;
+    font-size: 40px;
+    transform: rotate(-0.1turn);
+    left: 65rem;
+    top: 116rem;
+    z-index: -1;
+  }
+  .b5 {
+    position: absolute;
+    font-size: 40px;
+    transform: rotate(-0.1turn);
+    left: 8rem;
+    top: 130rem;
+  }
+  .b6 {
+    position: absolute;
+    font-size: 40px;
+    transform: rotate(-0.1turn);
+    left: 85rem;
+    top: 135rem;
+  }
+  
+  .b7 {
+    position: absolute;
+    font-size: 40px;
+    transform: rotate(-0.1turn);
+    left: 66rem;
+    top: 158rem;
+  }
+  
+  .b8 {
+    position: absolute;
+    font-size: 40px;
+    transform: rotate(-0.1turn);
+    left: 84rem;
+    top: 193rem;
+  }
+  
+  .b9 {
+    position: absolute;
+    font-size: 40px;
+    transform: rotate(-0.1turn);
+    left: 10rem;
+    top: 188rem;
+  }

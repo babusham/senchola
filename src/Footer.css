@@ -1,0 +1,104 @@
+.footer {
+    width: 100%;
+    height: auto;
+    background-color: #246b3c;
+    padding: 1px 7%;
+}
+
+.footer .copyrights{
+    color: white;
+    font-size: 0.8rem;
+    font-weight: 300;
+    padding-top: 5px;
+    padding-bottom: 8px;
+
+}
+
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.senchola {
+    font-size: 0.75rem;
+    font-weight: 200;
+}
+
+.senchola h5 {
+    font-weight: 600;
+}
+
+.senchola p {
+    line-height: 25px;
+}
+
+.usecase p {
+    font-size: 0.8rem;
+    font-weight: 200;
+}
+
+
+.flex-box {
+    padding: 1% 4% 2% 4%;
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+button {
+    color: #246b3c;
+    font-size: 1.4rem;
+}
+
+input,
+button {
+    border: none;
+    outline: none;
+    background: none;
+}
+
+.connect .mail {
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px 5px;
+    background-color: white;
+}
+
+.socialLinks{
+    margin-top: 10px;
+}
+
+.socialLinks span{
+    cursor: pointer;
+    margin-right: 10px;
+    font-size: 1.8rem;
+}
+
+@media (max-width:992px){
+    .flex-box{
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width:768px){
+    .flex-box{
+        justify-content: center;
+        flex-wrap: nowrap;
+        margin-left: 20px;
+        flex-direction: column;
+    }
+
+    .connect .mail {
+        width: 50%;
+    }
+}
+
+@media (max-width:576px){
+    .connect .mail {
+        width: 75%;
+    }
+
+    .footer .copyrights{
+        font-size: 0.7rem;
+    }
+}

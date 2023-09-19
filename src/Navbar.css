@@ -1,0 +1,55 @@
+
+#color{
+    border-bottom:2px solid #cecece ;
+
+}
+
+#navbarNav > ul > li{
+    font-size: 0.8rem;
+
+}
+#navbarNav button{
+    font-size: 0.75rem;
+}
+
+.active{
+    font-weight: 700;
+
+}
+
+.active span{
+    border-bottom:2px solid #000000 ;
+}
+
+@media (max-width:992px){
+}
+
+@media (max-width:768px){
+#navigation{
+    width: 100%;
+}
+
+
+    #icons{
+          font-size: 1.5rem;
+    }
+
+}
+@media (max-width:576px){
+#navigation{
+    width: 100%;
+}
+
+
+    #icons{
+          font-size: 1.8rem;
+          border: none;
+    }
+
+}
+
+@media (max-width:320px){
+    #icons{
+          font-size: 1.5rem;
+    }
+}
